@@ -1,6 +1,6 @@
 # Refactoring
 
-# Grid representing the data of board 
+# Game Of Life
 
 From Narawish's Game of life code: https://github.com/NarawishS/pa4-NarawishS/
 
